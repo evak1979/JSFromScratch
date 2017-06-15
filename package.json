@@ -1,0 +1,23 @@
+{
+  "name": "jsfromscratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evak1979/JSFromScratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evak1979/JSFromScratch/issues"
+  },
+  "homepage": "https://github.com/evak1979/JSFromScratch#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2"
+  }
+}
